@@ -1,6 +1,5 @@
 # Assignment 2: Analysis Model & Middle-Term Progress Presentation
 
-- 
 
 1. Moving on to design;
 
